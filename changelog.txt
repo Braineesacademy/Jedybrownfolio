@@ -1,4 +1,4 @@
-Version: 4.9.1
+Version: 4.9.2
   - Updated CSS
 Version: 4.9.1
   - Updated Bootstrap to version 5.2.2
