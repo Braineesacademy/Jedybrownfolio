@@ -1474,9 +1474,6 @@ a:hover {
     width: 0;
 
   }
-  .my-button .btn {
-    width: 80%;
-  }
   
 
 }
@@ -1486,9 +1483,7 @@ a:hover {
   .panel-footer section hr {
     width: 0;
   }
-  .my-button .btn {
-    width: 80%;
-  }
+ 
 }
 
 /********** Small devices only **********/
@@ -1502,9 +1497,7 @@ a:hover {
   width: 50%;
   margin: 0 auto;
 }
-.my-button .btn {
-  width: 80%;
-}
+
 }
 
 /********** Extra small devices only **********/
@@ -1523,44 +1516,20 @@ a:hover {
     width: 50%;
     margin: 0 auto;
   }
-  .my-button  {
-    width: 80%;
-    margin-left: 96px;
-    margin-top: 20px;
-  }
-  .my-button .btn {
-    width: 60%;
-    
-  }
+ 
+  
   /* End Footer */
 }
 
 /********** Super extra small devices Only :-) (e.g., iPhone 4) **********/
 @media (min-width: 200px) and (max-width: 479px) {
-  .my-button  {
-    width: 80%;
-    margin-left: 96px;
-    margin-top: 20px;
-  }
-  .my-button .btn {
-    width: 80%;
-  }
-  .socials .socials-list{
-    margin-left: 30%;
-  }
+  
 }
 
-.my-button .btn {
-  width: 80%;
-  margin-left: 8.5%;
-  margin-top: 0;
+.button-me .btn:hover {
   background-color: #0078ff;
-  border-radius: 24px;
-}
-
-.my-button .btn:hover {
   cursor: pointer;
-  background-color: #0b5ed7;
+  opacity: 0.6;
   
 }
 
